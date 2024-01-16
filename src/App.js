@@ -18,7 +18,7 @@ class App extends Component {
     this.setState({type: event.target.value});  
   }  
   // fungsi untuk mengubah header  
-  changeHeaderAlert = (event) => {  
+  changeHeaderAlert = (event) => {   
     this.setState({header: event.target.value});  
   }  
   // fungsi untuk mengubah content  
