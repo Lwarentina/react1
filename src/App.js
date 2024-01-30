@@ -1,7 +1,7 @@
 import React, {Component} from 'react';  
 import './App.css';  
 import Alert from './Components/Alert';
-import Media from './Components/Media';    
+import Media from './Component/Media';    
 // import element Alert yang telah dibuat  
   
 class App extends Component {  
